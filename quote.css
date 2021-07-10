@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    text-align:center;
+    background-image: linear-gradient( to right,pink,white);
+}
+p{margin-top: 10%;
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+  margin-top: 5%;
+  width: 30%;
+  height: 50%;
+  color: black;
+
+}
